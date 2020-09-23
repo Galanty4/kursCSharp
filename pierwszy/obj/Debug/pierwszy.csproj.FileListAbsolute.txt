@@ -1,0 +1,7 @@
+D:\Source\Repos\kursCSharp\pierwszy\bin\Debug\pierwszy.exe.config
+D:\Source\Repos\kursCSharp\pierwszy\bin\Debug\pierwszy.exe
+D:\Source\Repos\kursCSharp\pierwszy\bin\Debug\pierwszy.pdb
+D:\Source\Repos\kursCSharp\pierwszy\obj\Debug\pierwszy.csprojAssemblyReference.cache
+D:\Source\Repos\kursCSharp\pierwszy\obj\Debug\pierwszy.csproj.CoreCompileInputs.cache
+D:\Source\Repos\kursCSharp\pierwszy\obj\Debug\pierwszy.exe
+D:\Source\Repos\kursCSharp\pierwszy\obj\Debug\pierwszy.pdb
